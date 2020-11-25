@@ -1,0 +1,38 @@
+body {
+  /* background-color: #93abd3; */
+  /* text-align: center; */
+  margin: 0;
+}
+
+.intro {
+  background-color: #93abd3;
+  width: 100%;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 7rem;
+  color: #ec5858;
+  font-family: 'Great Vibes', cursive;
+  margin-top: 150px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 3rem;
+  color: #edf285;
+  margin-top: 0;
+}
+
+.cloud-1 {
+  position: relative;
+  top: 100px;
+  left: 450px;
+}
+
+.cloud-2 {
+  position: relative;
+  top: 500px;
+  right: 400px;
+}
