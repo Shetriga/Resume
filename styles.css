@@ -77,6 +77,12 @@ h2 {
   font-size: 3rem;
 }
 
+/* SERVICES SECTION */
+#services {
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
 /* SKILLS SECTION */
 #skills {
   padding-top: 50px;
@@ -87,6 +93,14 @@ h2 {
   font-size: 1.4rem;
   line-height: 1.6;
   margin-top: 20px;
+}
+
+.skills-image {
+  float: right;
+  width: 650px;
+  height: 400px;
+  position: relative;
+  right: 100px;
 }
 
 /* CONTACT ME SECTION */
