@@ -2,21 +2,30 @@ body {
   /* background-color: #93abd3; */
   /* text-align: center; */
   margin: 0;
+  background-color: #e8e8e8;
 }
 
-.intro {
+hr {
+  border-top: dotted 10px;
+  width: 10%;
+  color: #34626c;
+}
+
+/* INTRO SECTION */
+#intro {
   background-color: #93abd3;
   width: 100%;
   padding-bottom: 200px;
   text-align: center;
 }
 
-h1 {
+.intro-text {
   font-size: 7rem;
   color: #ec5858;
   font-family: 'Great Vibes', cursive;
   margin-top: 150px;
   margin-bottom: 0;
+  font-weight: bold;
 }
 
 h2 {
@@ -35,4 +44,41 @@ h2 {
   position: relative;
   top: 500px;
   right: 400px;
+}
+
+.mid {
+  width: 100%;
+  height: 600px;
+}
+
+/* BIO SECTION */
+#bio {
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+.mahmoud-image {
+  width: 20%;
+  position: relative;
+}
+
+.bio-text {
+  margin-top: 50px;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #313833;
+  line-height: 2;
+}
+
+.heading-text {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  color: #ec5858;
+  font-size: 4rem;
+}
+
+/* SKILLS SECTION */
+#skills {
+  padding-top: 50px;
+  padding-bottom: 70px;
 }
