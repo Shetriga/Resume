@@ -1,6 +1,6 @@
 if($(document).width() <= 980) {
-  $(".skills-div").addClass("container-fluid");
-  $(".skills-div").removeClass("container");
+  //$(".skills-div").addClass("container-fluid");
+  //$(".skills-div").removeClass("container");
 
   $(".certificates-div").addClass("container-fluid");
   $(".certificates-div").removeClass("container");
