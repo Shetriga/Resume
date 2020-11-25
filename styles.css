@@ -98,7 +98,7 @@ h2 {
 .skills-image {
   float: right;
   width: 650px;
-  height: 400px;
+  height: 450px;
   position: relative;
 }
 
@@ -149,6 +149,11 @@ h2 {
 
 .container-certificates {
   text-align: left;
+}
+
+.certificates-text {
+  margin-top: 100px;
+  font-size: 1.3rem;
 }
 
 /* FOOTER SECTION */
