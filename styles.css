@@ -73,12 +73,80 @@ h2 {
 .heading-text {
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
-  color: #ec5858;
-  font-size: 4rem;
+  color: #66BFBF;
+  font-size: 3rem;
 }
 
 /* SKILLS SECTION */
 #skills {
   padding-top: 50px;
   padding-bottom: 70px;
+}
+
+.skills-list {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  margin-top: 20px;
+}
+
+/* CONTACT ME SECTION */
+#contact-me {
+  padding-top: 50px;
+  padding-bottom: 70px;
+  text-align: center;
+}
+
+.contact-paragraph {
+  font-size: 1.5rem;
+  color: #66BFBF;
+  margin-top: 30px;
+  font-weight: 500;
+}
+
+.container-contact-me {
+  text-align: center;
+}
+
+.contact-me-text {
+  font-size: 1.5rem;
+}
+
+.font-awesome {
+  position: relative;
+  top: 7px;
+}
+
+.button-send-email {
+  margin-top: 20px;
+}
+
+/* CERTIFICATES SECTION */
+#certificates {
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+.cca-images {
+  margin: 50px 20px;
+}
+
+.university-logo {
+  margin-top: 50px;
+}
+
+.container-certificates {
+  text-align: left;
+}
+
+/* FOOTER SECTION */
+#footer {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  background-color: #66BFBF;
+  text-align: center;
+}
+
+.footer-copyright-text {
+  color: white;
+  margin-bottom: 0;
 }
