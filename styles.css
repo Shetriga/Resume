@@ -81,6 +81,28 @@ h2 {
 #services {
   padding-top: 50px;
   padding-bottom: 70px;
+  text-align: center;
+}
+
+.services-image {
+  width: 100%;
+}
+
+.services-gif {
+  width: 40%;
+}
+
+.services-heading {
+  font-size: 1.5rem;
+  color: black;
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 10px;
+}
+
+.services-description {
+  padding: 0 35px;
+  color: #595954;
+  margin-bottom: 50px;
 }
 
 /* SKILLS SECTION */
